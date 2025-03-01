@@ -8,8 +8,8 @@
 // Output: 0 
 // Explanation: A is not a subsequence of B
 // as 'Y' appears before 'A'.
-// Example 2:
 
+// Example 2:
 // Input:
 // A = gksrek
 // B = geeksforgeeks
@@ -21,7 +21,6 @@
 
  // Expected Time Complexity: O(N) where N is length of string B.
 // Expected Auxiliary Space: O(1)
-
 // Constraints:
 // 1<= |A|,|B| <=104
 
